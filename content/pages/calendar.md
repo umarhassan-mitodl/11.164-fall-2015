@@ -100,7 +100,7 @@ Human rights at home: The struggle to enforce human rights in the U.S.
 Security v. human rights: Torture, assassinations and the War on Terror
 {{< tdclose >}}
 {{< tdopen >}}
-Guest Speaker: Prof. [David Luban](https://www.law.georgetown.edu/faculty/luban-david-j.cfm), Georgetown University
+Guest Speaker: Prof. {{% resource_link "b454a279-eaab-46c2-a107-a374452e35a8" "David Luban" %}}, Georgetown University
 {{< tdclose >}}
 
 {{< trclose >}}
