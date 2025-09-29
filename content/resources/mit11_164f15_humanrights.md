@@ -4,6 +4,8 @@ description: Example of student work for the final paper assignment.
 file: /courses/11-164-human-rights-at-home-and-abroad-fall-2015/d378dda4422a4f79f5547ebbe2e51654_MIT11_164F15_HumanRights.pdf
 file_size: 249432
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides a course overview and information meeting
   times, prerequisites, course materials, grading, and class participation.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -32,11 +34,11 @@ The course will be based on readings from three main texts (see below) and sever
 
 ### Required Texts
 
-Donnelly, Jack. _Universal Human Rights in Theory & Practice_. 3rd ed. Cornell University Press, 2013. ISBN: 9780801477706. \[Preview with {{% resource_link "a9649da4-cbe9-4097-85bd-8128061fbd90" "Google Books" %}}\]
+Donnelly, Jack. _Universal Human Rights in Theory & Practice_. 3rd ed. Cornell University Press, 2013. ISBN: 9780801477706. \[Preview with [Google Books](http://books.google.com/books?id=3gVCY1P7e4MC&pg=PAfrontcover)\]
 
 Hurwitz, Deena, Margaret Satherthwaite, and Douglas Ford. _Human Rights Advocacy Stories_. Foundation Press, 2008. ISBN: 9781599411996.
 
-Rajagopal, Balakrishnan. _International Law from Below_. Cambridge University Press, 2003. ISBN: 9780521016711. \[Preview with {{% resource_link "96b630ab-cc65-4e6e-b94f-697cbe99669a" "Google Books" %}}\]
+Rajagopal, Balakrishnan. _International Law from Below_. Cambridge University Press, 2003. ISBN: 9780521016711. \[Preview with [Google Books](http://books.google.com/books?id=k0Xv2IFGCAoC&pg=PAfrontcover)\]
 
 ### Recommended Text
 
